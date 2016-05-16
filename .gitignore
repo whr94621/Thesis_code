@@ -1,0 +1,6 @@
+# ignore dataset and model result
+/dataset/
+/embedding_result/
+/.vscode/
+
+
